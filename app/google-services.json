@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87388253630",
+    "project_id": "save-the-moment-27c28",
+    "storage_bucket": "save-the-moment-27c28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87388253630:android:d2f93b6b85375753a55def",
+        "android_client_info": {
+          "package_name": "com.example.savethemoment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB40A67fvgb0RvUNoX9jk2UTE5nKNJVx6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
